@@ -49,11 +49,7 @@ This project investigates the impact of socioeconomic factors on mental health o
 ## How to Use  
 1. **Download the latest NHIS dataset from [CDC](https://www.cdc.gov/nchs/nhis/2023nhis.htm).**  
 2. **Preprocess the data using the same pipeline outlined above.**  
-3. **Run the model:**  
-   - Download `finalModel.model`  
-   - Unpack using Python’s `pickle` package  
-   - Run inference on new data  
 
 ## Additional Resources  
-- **Final Research Paper:** [paper.pdf](./paper.pdf)  
+- **Final Research Paper:** [paper.pdf](./finalReport.pdf)  
 - **Presentation Slides:** [slides.pdf](./slides.pdf)  
